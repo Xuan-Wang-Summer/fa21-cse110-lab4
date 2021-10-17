@@ -1,0 +1,2 @@
+1. The num1 and num2 are strings and they are simply concentrated rather than during the addition.
+2. Use the Number() function to turn num1 and num2 into numbers and the arithmetic addition will happen.
