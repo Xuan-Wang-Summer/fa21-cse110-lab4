@@ -24,7 +24,7 @@
     H. NaN. string '3' maps to integer 3 and undefined maps to NaN, then 3-NaN = NaN.
 14. A. true. string '2' maps to integer 2.\
     B. false. In string comparison,'2' comes after '1' in lexicographical order.\
-    C. true. string '2' maps to integer 2.\ 
+    C. true. string '2' maps to integer 2. \
     D. false. integer 2 and string '2' are not in the same type.\
     E. false. true maps to 1.\
     F. true. Boolean(2) maps to true.
